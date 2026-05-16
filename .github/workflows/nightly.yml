@@ -1,0 +1,42 @@
+name: nightly-build
+
+on:
+  schedule:
+    # каждую ночь в 02:00 UTC
+    - cron: "0 2 * * *"
+  push:
+    tags:
+      - "stage/*"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc and deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc python3-yaml \
+            texlive-xetex texlive-fonts-recommended fonts-dejavu
+
+      - name: Regenerate book.yml
+        run: python3 scripts/scaffold.py
+
+      - name: Build all formats
+        run: make all
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-${{ github.sha }}
+          path: dist/*
+          retention-days: 14
+
+      # На тег стадии — публикуем релиз с готовыми форматами
+      - name: Release on stage tag
+        if: startsWith(github.ref, 'refs/tags/stage/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*
