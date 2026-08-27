@@ -1,0 +1,20 @@
+# Артефакты сборки
+dist/
+*.epub
+*.pdf
+*.mobi
+
+# Код примера
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+vendor/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*~
