@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.03"
+paragraph: "2.3"
 slug: html-skobki
 title: "HTML: договорённые скобки"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.03 HTML: договорённые скобки
+# § 2.3. HTML: договорённые скобки
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

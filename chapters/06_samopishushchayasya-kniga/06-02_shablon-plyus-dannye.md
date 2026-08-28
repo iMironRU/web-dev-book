@@ -1,6 +1,6 @@
 ---
 module: 6
-paragraph: "06.02"
+paragraph: "6.2"
 slug: shablon-plyus-dannye
 title: "Шаблон + данные = страница"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §06.02 Шаблон + данные = страница
+# § 6.2. Шаблон + данные = страница
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

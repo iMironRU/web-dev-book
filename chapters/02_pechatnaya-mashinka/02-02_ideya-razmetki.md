@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.02"
+paragraph: "2.2"
 slug: ideya-razmetki
 title: "Идея разметки: пометки на полях"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.02 Идея разметки: пометки на полях
+# § 2.2. Идея разметки: пометки на полях
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

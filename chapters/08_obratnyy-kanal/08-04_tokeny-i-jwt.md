@@ -1,6 +1,6 @@
 ---
 module: 8
-paragraph: "08.04"
+paragraph: "8.4"
 slug: tokeny-i-jwt
 title: "Токены и JWT: паспорт с печатью"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §08.04 Токены и JWT: паспорт с печатью
+# § 8.4. Токены и JWT: паспорт с печатью
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

@@ -1,6 +1,6 @@
 ---
 module: 7
-paragraph: "07.04"
+paragraph: "7.4"
 slug: dokumentnye-i-kv
 title: "Документные и Key-Value: не всё табличное"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §07.04 Документные и Key-Value: не всё табличное
+# § 7.4. Документные и Key-Value: не всё табличное
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

@@ -1,6 +1,6 @@
 ---
 module: 7
-paragraph: "07.03"
+paragraph: "7.3"
 slug: sql-yazyk-zaprosov
 title: "SQL: язык запросов к картотеке"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §07.03 SQL: язык запросов к картотеке
+# § 7.3. SQL: язык запросов к картотеке
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

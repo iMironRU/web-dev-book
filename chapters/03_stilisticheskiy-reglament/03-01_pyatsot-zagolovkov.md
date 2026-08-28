@@ -1,6 +1,6 @@
 ---
 module: 3
-paragraph: "03.01"
+paragraph: "3.1"
 slug: pyatsot-zagolovkov
 title: "Пятьсот заголовков и один редизайн"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §03.01 Пятьсот заголовков и один редизайн
+# § 3.1. Пятьсот заголовков и один редизайн
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

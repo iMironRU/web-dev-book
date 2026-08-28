@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.03"
+paragraph: "4.3"
 slug: brauzer-chitatel-s-lupoy
 title: "Браузер: читатель с лупой"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.03 Браузер: читатель с лупой
+# § 4.3. Браузер: читатель с лупой
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

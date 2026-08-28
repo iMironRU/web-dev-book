@@ -1,6 +1,6 @@
 ---
 module: 12
-paragraph: "12.01"
+paragraph: "12.1"
 slug: polnyy-obhod
 title: "«Между строк»: полный обход"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §12.01 «Между строк»: полный обход
+# § 12.1. «Между строк»: полный обход
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

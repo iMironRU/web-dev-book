@@ -1,6 +1,6 @@
 ---
 module: 5
-paragraph: "05.02"
+paragraph: "5.2"
 slug: adaptiv
 title: "Адаптив: один HTML, много раскладок"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §05.02 Адаптив: один HTML, много раскладок
+# § 5.2. Адаптив: один HTML, много раскладок
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

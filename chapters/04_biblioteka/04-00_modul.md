@@ -18,14 +18,14 @@ status: todo
 
 ## Параграфы
 
-- §04.01 Библиотека как модель веба — `04-01_biblioteka-kak-model.md`
-- §04.02 Сервер: машина, которая всегда дежурит — `04-02_server-dezhurit.md`
-- §04.03 Браузер: читатель с лупой — `04-03_brauzer-chitatel-s-lupoy.md`
-- §04.04 URL: адрес книги в каталоге — `04-04_url-adres-knigi.md`
-- §04.05 DNS: телефонный справочник интернета — `04-05_dns-spravochnik.md`
-- §04.06 HTTP: язык бланков — `04-06_http-yazyk-blankov.md`
-- §04.07 Коды ответа: 200, 301, 404, 500 — что значит — `04-07_kody-otveta.md`
-- §04.08 HTTPS: запечатанный конверт — `04-08_https-zapechatannyy-konvert.md`
+- § 4.1 Библиотека как модель веба — `04-01_biblioteka-kak-model.md`
+- § 4.2 Сервер: машина, которая всегда дежурит — `04-02_server-dezhurit.md`
+- § 4.3 Браузер: читатель с лупой — `04-03_brauzer-chitatel-s-lupoy.md`
+- § 4.4 URL: адрес книги в каталоге — `04-04_url-adres-knigi.md`
+- § 4.5 DNS: телефонный справочник интернета — `04-05_dns-spravochnik.md`
+- § 4.6 HTTP: язык бланков — `04-06_http-yazyk-blankov.md`
+- § 4.7 Коды ответа: 200, 301, 404, 500 — что значит — `04-07_kody-otveta.md`
+- § 4.8 HTTPS: запечатанный конверт — `04-08_https-zapechatannyy-konvert.md`
 
 ## Резюме модуля
 

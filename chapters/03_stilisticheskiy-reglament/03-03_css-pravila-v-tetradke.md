@@ -1,6 +1,6 @@
 ---
 module: 3
-paragraph: "03.03"
+paragraph: "3.3"
 slug: css-pravila-v-tetradke
 title: "CSS: правила в отдельной тетрадке"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §03.03 CSS: правила в отдельной тетрадке
+# § 3.3. CSS: правила в отдельной тетрадке
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

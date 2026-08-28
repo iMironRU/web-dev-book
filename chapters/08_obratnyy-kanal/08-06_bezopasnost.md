@@ -1,6 +1,6 @@
 ---
 module: 8
-paragraph: "08.06"
+paragraph: "8.6"
 slug: bezopasnost
 title: "Безопасность: SQL-инъекции, XSS, CSRF"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §08.06 Безопасность: SQL-инъекции, XSS, CSRF
+# § 8.6. Безопасность: SQL-инъекции, XSS, CSRF
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

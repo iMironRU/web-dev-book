@@ -1,6 +1,6 @@
 ---
 module: 0
-paragraph: "00.01"
+paragraph: "0.1"
 slug: komu-eta-kniga
 title: "Кому эта книга и кому она НЕ"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §00.01 Кому эта книга и кому она НЕ
+# § 0.1. Кому эта книга и кому она НЕ
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

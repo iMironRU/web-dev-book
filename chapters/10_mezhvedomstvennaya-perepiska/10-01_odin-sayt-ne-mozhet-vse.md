@@ -1,6 +1,6 @@
 ---
 module: 10
-paragraph: "10.01"
+paragraph: "10.1"
 slug: odin-sayt-ne-mozhet-vse
 title: "Один сайт не может всё"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §10.01 Один сайт не может всё
+# § 10.1. Один сайт не может всё
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

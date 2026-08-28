@@ -1,6 +1,6 @@
 ---
 module: 8
-paragraph: "08.03"
+paragraph: "8.3"
 slug: kuki-i-sessii
 title: "Кто это вообще: куки и сессии"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §08.03 Кто это вообще: куки и сессии
+# § 8.3. Кто это вообще: куки и сессии
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

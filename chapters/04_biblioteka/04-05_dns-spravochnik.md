@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.05"
+paragraph: "4.5"
 slug: dns-spravochnik
 title: "DNS: телефонный справочник интернета"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.05 DNS: телефонный справочник интернета
+# § 4.5. DNS: телефонный справочник интернета
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

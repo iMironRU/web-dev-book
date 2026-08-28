@@ -1,6 +1,6 @@
 ---
 module: 10
-paragraph: "10.03"
+paragraph: "10.3"
 slug: graphql
 title: "GraphQL: когда REST становится тесен"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §10.03 GraphQL: когда REST становится тесен
+# § 10.3. GraphQL: когда REST становится тесен
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

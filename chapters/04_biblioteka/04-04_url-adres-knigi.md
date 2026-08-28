@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.04"
+paragraph: "4.4"
 slug: url-adres-knigi
 title: "URL: адрес книги в каталоге"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.04 URL: адрес книги в каталоге
+# § 4.4. URL: адрес книги в каталоге
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.01"
+paragraph: "2.1"
 slug: mashinka-i-ee-stradaniya
 title: "Машинка и её страдания"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.01 Машинка и её страдания
+# § 2.1. Машинка и её страдания
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

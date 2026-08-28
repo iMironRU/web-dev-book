@@ -1,6 +1,6 @@
 ---
 module: 9
-paragraph: "09.05"
+paragraph: "9.5"
 slug: websocket
 title: "WebSocket: телефон вместо писем"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §09.05 WebSocket: телефон вместо писем
+# § 9.5. WebSocket: телефон вместо писем
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

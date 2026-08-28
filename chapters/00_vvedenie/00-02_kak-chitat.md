@@ -1,6 +1,6 @@
 ---
 module: 0
-paragraph: "00.02"
+paragraph: "0.2"
 slug: kak-chitat
 title: "Как читать эту книгу"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §00.02 Как читать эту книгу
+# § 0.2. Как читать эту книгу
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

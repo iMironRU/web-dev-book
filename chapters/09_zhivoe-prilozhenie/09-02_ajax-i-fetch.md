@@ -1,6 +1,6 @@
 ---
 module: 9
-paragraph: "09.02"
+paragraph: "9.2"
 slug: ajax-i-fetch
 title: "AJAX и fetch: страница ходит за данными сама"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §09.02 AJAX и fetch: страница ходит за данными сама
+# § 9.2. AJAX и fetch: страница ходит за данными сама
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

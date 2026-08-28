@@ -1,6 +1,6 @@
 ---
 module: 12
-paragraph: "12.02"
+paragraph: "12.2"
 slug: chek-list-pered-zapuskom
 title: "Чек-лист перед запуском"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §12.02 Чек-лист перед запуском
+# § 12.2. Чек-лист перед запуском
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

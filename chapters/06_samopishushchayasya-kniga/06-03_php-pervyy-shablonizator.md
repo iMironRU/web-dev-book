@@ -1,6 +1,6 @@
 ---
 module: 6
-paragraph: "06.03"
+paragraph: "6.3"
 slug: php-pervyy-shablonizator
 title: "PHP: первый массовый шаблонизатор"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §06.03 PHP: первый массовый шаблонизатор
+# § 6.3. PHP: первый массовый шаблонизатор
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

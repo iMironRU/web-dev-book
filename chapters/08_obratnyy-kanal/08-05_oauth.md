@@ -1,6 +1,6 @@
 ---
 module: 8
-paragraph: "08.05"
+paragraph: "8.5"
 slug: oauth
 title: "OAuth: «войти через Гугл»"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §08.05 OAuth: «войти через Гугл»
+# § 8.5. OAuth: «войти через Гугл»
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

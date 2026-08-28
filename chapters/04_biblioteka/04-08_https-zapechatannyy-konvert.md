@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.08"
+paragraph: "4.8"
 slug: https-zapechatannyy-konvert
 title: "HTTPS: запечатанный конверт"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.08 HTTPS: запечатанный конверт
+# § 4.8. HTTPS: запечатанный конверт
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

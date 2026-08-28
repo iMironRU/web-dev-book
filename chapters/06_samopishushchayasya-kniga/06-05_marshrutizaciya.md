@@ -1,6 +1,6 @@
 ---
 module: 6
-paragraph: "06.05"
+paragraph: "6.5"
 slug: marshrutizaciya
 title: "Маршрутизация: какой URL — какой шаблон"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §06.05 Маршрутизация: какой URL — какой шаблон
+# § 6.5. Маршрутизация: какой URL — какой шаблон
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

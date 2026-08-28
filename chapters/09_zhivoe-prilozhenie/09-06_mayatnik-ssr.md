@@ -1,6 +1,6 @@
 ---
 module: 9
-paragraph: "09.06"
+paragraph: "9.6"
 slug: mayatnik-ssr
 title: "Маятник: SSR возвращается, SSG, гибриды"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §09.06 Маятник: SSR возвращается, SSG, гибриды
+# § 9.6. Маятник: SSR возвращается, SSG, гибриды
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

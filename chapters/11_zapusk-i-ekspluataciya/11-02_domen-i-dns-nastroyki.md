@@ -1,6 +1,6 @@
 ---
 module: 11
-paragraph: "11.02"
+paragraph: "11.2"
 slug: domen-i-dns-nastroyki
 title: "Домен и DNS-настройки"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §11.02 Домен и DNS-настройки
+# § 11.2. Домен и DNS-настройки
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

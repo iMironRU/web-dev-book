@@ -1,6 +1,6 @@
 ---
 module: 1
-paragraph: "01.01"
+paragraph: "1.1"
 slug: ot-naskalnoy-zhivopisi
 title: "Зачем человеку всё это: от наскальной живописи до YouTube"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §01.01 Зачем человеку всё это: от наскальной живописи до YouTube
+# § 1.1. Зачем человеку всё это: от наскальной живописи до YouTube
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

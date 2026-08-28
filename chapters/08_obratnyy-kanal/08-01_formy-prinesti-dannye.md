@@ -1,6 +1,6 @@
 ---
 module: 8
-paragraph: "08.01"
+paragraph: "8.1"
 slug: formy-prinesti-dannye
 title: "Формы как способ принести данные"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §08.01 Формы как способ принести данные
+# § 8.1. Формы как способ принести данные
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

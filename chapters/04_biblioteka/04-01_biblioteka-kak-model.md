@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.01"
+paragraph: "4.1"
 slug: biblioteka-kak-model
 title: "Библиотека как модель веба"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.01 Библиотека как модель веба
+# § 4.1. Библиотека как модель веба
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

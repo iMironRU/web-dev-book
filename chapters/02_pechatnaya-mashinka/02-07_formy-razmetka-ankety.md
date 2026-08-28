@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.07"
+paragraph: "2.7"
 slug: formy-razmetka-ankety
 title: "Формы: разметка анкеты"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.07 Формы: разметка анкеты
+# § 2.7. Формы: разметка анкеты
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

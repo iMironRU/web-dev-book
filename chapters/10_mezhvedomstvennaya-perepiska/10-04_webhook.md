@@ -1,6 +1,6 @@
 ---
 module: 10
-paragraph: "10.04"
+paragraph: "10.4"
 slug: webhook
 title: "WebHook: «как только событие — позвоните»"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §10.04 WebHook: «как только событие — позвоните»
+# § 10.4. WebHook: «как только событие — позвоните»
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

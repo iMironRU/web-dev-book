@@ -1,6 +1,6 @@
 ---
 module: 4
-paragraph: "04.06"
+paragraph: "4.6"
 slug: http-yazyk-blankov
 title: "HTTP: язык бланков"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §04.06 HTTP: язык бланков
+# § 4.6. HTTP: язык бланков
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

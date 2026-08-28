@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.05"
+paragraph: "2.5"
 slug: tekst-ssylki-kartinki
 title: "Текст, ссылки, картинки, списки"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.05 Текст, ссылки, картинки, списки
+# § 2.5. Текст, ссылки, картинки, списки
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

@@ -1,6 +1,6 @@
 ---
 module: 2
-paragraph: "02.06"
+paragraph: "2.6"
 slug: semantika
 title: "Семантика: почему <header> лучше, чем <div>"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §02.06 Семантика: почему <header> лучше, чем <div>
+# § 2.6. Семантика: почему <header> лучше, чем <div>
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

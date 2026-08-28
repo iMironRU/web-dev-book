@@ -1,6 +1,6 @@
 ---
 module: 3
-paragraph: "03.07"
+paragraph: "3.7"
 slug: evolyuciya-css
 title: "Эволюция CSS: от <font color> до :has()"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §03.07 Эволюция CSS: от <font color> до :has()
+# § 3.7. Эволюция CSS: от <font color> до :has()
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не

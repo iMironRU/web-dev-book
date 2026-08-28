@@ -1,6 +1,6 @@
 ---
 module: 6
-paragraph: "06.06"
+paragraph: "6.6"
 slug: staticheskaya-generaciya
 title: "Альтернатива: статическая генерация и JAMstack"
 status: todo            # todo | draft | review | done
@@ -12,7 +12,7 @@ reading_min: 40
 chars_target: 10000
 ---
 
-# §06.06 Альтернатива: статическая генерация и JAMstack
+# § 6.6. Альтернатива: статическая генерация и JAMstack
 
 > **Статус: TODO.** Это скелет. Структура ниже обязательна — см.
 > `meta/style-guide.md`. Высший принцип: объясняем причинность, а не
